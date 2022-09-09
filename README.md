@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker Machine Code
 
 * create server.js to run server
 
